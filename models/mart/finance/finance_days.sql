@@ -18,6 +18,7 @@
 
  SELECT
      date_date
+     , nb_transactions
      , revenue
      , margin
      , operational_margin
